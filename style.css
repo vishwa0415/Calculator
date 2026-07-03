@@ -87,3 +87,9 @@ body{
 .calc-button:active{
     background-color: #ffef78;
 }
+.calc-button.double{
+    flex-basis:47%;
+}
+.calc-button.triple{
+    flex-basis:73%;
+}
